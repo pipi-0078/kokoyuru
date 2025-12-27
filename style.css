@@ -89,7 +89,7 @@ img {
   position: relative;
   height: 100vh;
   min-height: 600px;
-  background-image: url("https://images.unsplash.com/photo-1518173946687-a4c8892bbd9f?auto=format&fit=crop&w=1920&q=80");
+  background-image: url("flower-75331_1280.jpg");
   background-size: cover;
   background-position: center;
   background-attachment: fixed; /* Parallax feel */
