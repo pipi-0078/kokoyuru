@@ -542,4 +542,9 @@ img {
   .closing.text-center {
     text-align: left;
   }
+
+  /* Fix for low resolution background on mobile */
+  .hero {
+    background-attachment: scroll;
+  }
 }
