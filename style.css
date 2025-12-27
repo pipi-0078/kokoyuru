@@ -542,4 +542,10 @@ img {
   .closing.text-center {
     text-align: left;
   }
+
+  .hero-bg-overlay,
+  .hero-content {
+    backdrop-filter: none;
+    -webkit-backdrop-filter: none; /* Safari support */
+  }
 }
