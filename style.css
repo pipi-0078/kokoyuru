@@ -482,6 +482,11 @@ img {
   border-color: var(--primary-color);
 }
 
+/* Footer */
+footer {
+  padding: 2rem 0 4rem; /* Top 2rem, Right/Left 0, Bottom 4rem */
+}
+
 /* Animation Classes */
 .fade-in {
   opacity: 0;
