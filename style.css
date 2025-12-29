@@ -2,7 +2,7 @@
   --primary-color: #8da399; /* Calm Sage Green */
   --primary-dark: #6b8278;
   --accent-color: #d6cfc7; /* Warm Beige */
-  --text-color: #4a4a4a;
+  --text-color: #333333;
   --bg-color: #fcfcf9; /* Off-white, rice paper feel */
   --white: #ffffff;
   --font-heading: "Zen Old Mincho", serif;
@@ -266,7 +266,7 @@ img {
 
 .timeline-content p {
   font-size: 1rem;
-  color: #666;
+  color: #444;
 }
 
 /* Learning Points */
@@ -360,7 +360,7 @@ img {
 .rec-card.negative {
   background-color: #f9f9f9;
   border: 1px solid #ddd;
-  color: #777;
+  color: #555;
 }
 
 .rec-card ul li {
@@ -402,7 +402,7 @@ img {
 .small-note {
   font-size: 0.85rem;
   margin-top: 1.5rem;
-  color: #888;
+  color: #666;
 }
 
 /* Divider */
